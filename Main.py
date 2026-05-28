@@ -8,7 +8,7 @@ import io
 import wave
 
 # Fetch Environment Variables from Render Config
-API_KEY = os.environ.get("GEMINI_API_KEY")
+API_KEY = os.environ.get("AIzaSyCxDRnrhWM3O9zaXFp_P4LJs1FbAkugV74")
 PORT = int(os.environ.get("PORT", 8765))
 
 if not API_KEY:
